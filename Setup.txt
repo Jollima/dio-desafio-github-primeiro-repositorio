@@ -1,0 +1,14 @@
+- COMANDOS DO GIT:
+
+1 - Criar um repositório no Github;
+
+2 - Clonar o repositório do Github no Git usando o seguinte comando: git clone 
+
+3 - Adicionar alterações feitas no diretório local: git add
+
+4 - Comitar o diretório: git commit -m "mensagem"
+
+5 - Empurrar alterações para o github: git push origin main
+
+6 - Puxar alterações da nuvem: git pull origin main
+
