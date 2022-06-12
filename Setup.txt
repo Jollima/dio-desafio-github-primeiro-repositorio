@@ -12,3 +12,5 @@
 
 6 - Puxar alterações da nuvem: git pull origin main
 
+7 - Editar atributo do git: git config --globall --unset user.email
+
